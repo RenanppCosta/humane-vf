@@ -124,3 +124,22 @@ footer h3{
     text-align: center;
     font-weight: lighter;
 }
+
+@media (max-width:900px) {
+    header{
+        padding: 40px 50px ;
+    }
+
+    header nav a{
+        font-size: 12px;
+        padding: 20px 6px;
+    }
+    
+}
+
+/*@media (max-width:720px) {
+    header nav{
+        display: none;
+    }
+    
+}*/
